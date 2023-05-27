@@ -4,7 +4,9 @@ description = "Small, lightweight serialization wrapper around the byteorder cra
 version = "0.1.0"
 edition = "2021"
 license = "MIT"
-keywords = ["serialization", "serialize", "bytes", "stream"]
+keywords = ["serialization", "stream", "parsing", "bytes", "encoding"]
+categories = ["encoding", "parsing"]
+repository = "https://github.com/NiklasVd/bytify"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
